@@ -988,6 +988,7 @@ footer .copy {
   .feature_top {
     background-image: url(../img/feature_top_sp_bg.svg);
     background-size: cover;
+    background-position: 0 0;
     margin-top: -1px;
     padding: 0 30px 0 30px;
   }
@@ -1518,7 +1519,7 @@ footer .copy {
 }
 @media (max-width: 540px) {
   .print_price {
-    background-image: url(../img/print_price_sp_bg.png);
+    background-image: url(../img/print_price_sp_bg.svg);
     background-position: 50% -3.6%;
     background-repeat: no-repeat;
     background-size: contain;
