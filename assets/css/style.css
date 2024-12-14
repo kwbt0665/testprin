@@ -895,7 +895,7 @@ footer .copy {
 }
 @media (max-width: 540px) {
   .hero .hero_sp .hero_sp_top {
-    height: 33rem;
+    height: 35rem;
     padding: 20px 0 20px 20px;
   }
 }
@@ -1356,11 +1356,6 @@ footer .copy {
 .feature_top .box-txt2 .btn_area {
   margin: 2.5rem auto 0;
   text-align: left;
-}
-@media (max-width: 470px) {
-  .feature_top .box-txt2 .btn_area {
-    padding: 1.875rem 0;
-  }
 }
 .feature_top .box-txt2 .btn_area .featureBox_btn {
   line-height: 70px;
