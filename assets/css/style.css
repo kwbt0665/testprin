@@ -895,8 +895,8 @@ footer .copy {
 }
 @media (max-width: 540px) {
   .hero .hero_sp .hero_sp_top {
-    height: 37rem;
-    padding: 30px 0 30px 30px;
+    height: 33rem;
+    padding: 20px 0 20px 20px;
   }
 }
 .hero .hero_sp .hero_sp_top .fv_block_sp {
@@ -909,7 +909,7 @@ footer .copy {
 }
 @media (max-width: 540px) {
   .hero .hero_sp .hero_sp_top .fv_block_sp {
-    max-width: 300px;
+    max-width: 280px;
   }
 }
 .hero .hero_sp .hero_sp_top .fv_block_sp .txt_catch {
@@ -2068,9 +2068,9 @@ footer .copy {
     padding: 0 2rem;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 460px) {
   .oudanmaku .oudan_flex li .oudan_txt .size_box {
-    padding: 10px 0;
+    padding: 0.5rem;
   }
 }
 .oudanmaku .oudan_flex li .oudan_txt .size_box .size_txt {
