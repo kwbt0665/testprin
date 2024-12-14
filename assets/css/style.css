@@ -2008,7 +2008,7 @@ footer .copy {
   }
 }
 .oudanmaku .oudan_flex li .oudan_img img {
-  border-radius: 10px;
+  border-radius: 20px;
 }
 @media (max-width: 540px) {
   .oudanmaku .oudan_flex li .oudan_txt {
