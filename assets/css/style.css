@@ -1152,11 +1152,6 @@ footer .copy {
     padding: 0 0 4rem 0;
   }
 }
-@media (max-width: 470px) {
-  .feature_top .feature_first_box .first_block {
-    padding: 0 0 3.75rem 0;
-  }
-}
 .feature_top .feature_first_box .first_block img {
   width: 150px;
 }
@@ -2149,7 +2144,7 @@ footer .copy {
   }
 }
 .oudanmaku .taremaku_flex li .taremaku_img img {
-  border-radius: 10px;
+  border-radius: 20px;
 }
 .oudanmaku .taremaku_flex li .taremaku_txt .sheet_title {
   color: #FFF;
