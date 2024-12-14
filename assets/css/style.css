@@ -2131,14 +2131,24 @@ footer .copy {
   padding: 0 5.7rem;
   margin-bottom: 5rem;
 }
+@media (max-width: 1300px) {
+  .oudanmaku .taremaku_flex li {
+    padding: 0 3rem;
+  }
+}
 @media (max-width: 1100px) {
   .oudanmaku .taremaku_flex li {
     padding: 0 1rem;
   }
 }
-@media (max-width: 540px) {
+@media (max-width: 760px) {
   .oudanmaku .taremaku_flex li {
     width: 45%;
+    margin-bottom: 3.5rem;
+  }
+}
+@media (max-width: 540px) {
+  .oudanmaku .taremaku_flex li {
     padding: 0;
     margin-bottom: 2.5rem;
   }
